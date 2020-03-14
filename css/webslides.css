@@ -1773,10 +1773,10 @@ footer .column h3 {
   font-size: 6.4rem;
   line-height: 1;
   margin: 0; }
-
+/* custom img size slide4 */
 .flexblock.features li img {
-  width: 6.4rem; }
-
+  /* width: 6.4rem; } */
+  width: 100%;}
 .flexblock.features li span sup {
   font-size: 3rem; }
 
